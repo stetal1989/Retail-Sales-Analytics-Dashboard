@@ -165,8 +165,17 @@ This dataset is commonly used for Business Intelligence, Data Visualization and 
 
 ---
 
-## 👤 Author
+---
+
+# 👨‍💻 Author
 
 **Stylianos Taliadouros**
 
-Junior Data Analyst | Power BI | SQL | Excel
+Aspiring Data Analyst passionate about transforming data into actionable business insights through **Power BI**, **SQL**, **Excel**, and **Data Visualization**.
+
+### 📫 Connect with me
+
+- GitHub: https://github.com/stetal1989
+- LinkedIn: *(Add your LinkedIn profile here)*
+
+---
