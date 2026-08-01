@@ -8,6 +8,7 @@ Interactive **Power BI** dashboard built using the **Sample Superstore** dataset
 <p align="center">
   <img src="images/Executive Overview.png" width="100%">
 </p>
+
 ---
 
 ## 🚀 Project Overview
