@@ -5,7 +5,9 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge)
 
 Interactive **Power BI** dashboard built using the **Sample Superstore** dataset to analyze sales performance, profitability, customer behavior, product performance, and business trends.
-
+<p align="center">
+  <img src="images/Executive Overview.png" width="100%">
+</p>
 ---
 
 ## 🚀 Project Overview
