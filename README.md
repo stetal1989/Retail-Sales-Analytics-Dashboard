@@ -1,4 +1,8 @@
 # 📊 Retail Sales Analytics Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-005A9C?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge)
 
 Interactive **Power BI** dashboard built using the **Sample Superstore** dataset to analyze sales performance, profitability, customer behavior, product performance, and business trends.
 
