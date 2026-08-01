@@ -176,6 +176,6 @@ Aspiring Data Analyst passionate about transforming data into actionable busines
 ### 📫 Connect with me
 
 - GitHub: https://github.com/stetal1989
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/stelios-taliadouros/
 
 ---
