@@ -132,14 +132,25 @@ This dataset is commonly used for Business Intelligence, Data Visualization and 
 
 # ⭐ Skills Demonstrated
 
-- Data Cleaning
-- Data Modeling
-- DAX Measures
-- KPI Design
-- Dashboard Design
-- Interactive Reporting
-- Business Analysis
-- Data Storytelling
+✔ Data Cleaning & Transformation
+
+✔ Data Modeling
+
+✔ DAX Measures
+
+✔ KPI Development
+
+✔ Dashboard Design
+
+✔ Interactive Reporting
+
+✔ Business Intelligence
+
+✔ Data Visualization
+
+✔ Business Storytelling
+
+✔ Analytical Thinking
 
 ---
 
