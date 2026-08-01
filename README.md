@@ -32,14 +32,14 @@ The report was designed for business users and decision-makers, providing an int
 
 # 🛠️ Tools & Technologies
 
-| Tool | Purpose |
-|------|---------|
-| Microsoft Power BI | Dashboard Development |
-| Power Query | Data Cleaning & Transformation |
-| DAX | KPI & Measure Creation |
-| Data Modeling | Relationships & Performance |
-| Data Visualization | Interactive Business Reporting |
-
+| Technology | Usage |
+|------------|-------|
+| 📊 Power BI | Dashboard Development |
+| ⚡ DAX | Measures & KPIs |
+| 🔄 Power Query | Data Cleaning & Transformation |
+| 🗂️ Data Modeling | Relationships |
+| 📈 Data Visualization | Interactive Dashboards |
+| 📉 Business Intelligence | Decision Support |
 ---
 
 # 📈 Key Performance Indicators (KPIs)
