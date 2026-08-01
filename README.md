@@ -2,11 +2,15 @@
 
 An interactive **Power BI Dashboard** built using the **Sample Superstore** dataset to analyze sales performance, profitability, customers, products, and business trends.
 
+---
+
 ## 📌 Project Overview
 
 This project was developed to provide business insights through interactive dashboards and KPIs. It enables users to explore sales performance across different dimensions, identify profitable products and customers, and monitor business trends over time.
 
 The dashboard is designed for business users and decision-makers, allowing quick access to key performance metrics through dynamic filters and visualizations.
+
+---
 
 ## 🎯 Business Objectives
 
@@ -15,6 +19,8 @@ The dashboard is designed for business users and decision-makers, allowing quick
 - Identify top-performing customers and products
 - Track sales and profit trends over time
 - Provide interactive filtering for deeper business analysis
+
+---
 
 # 📊 Dashboard Pages
 
@@ -29,8 +35,7 @@ The dashboard is designed for business users and decision-makers, allowing quick
 - Sales by Category
 - Profit by Region
 
-
-
+---
 
 ## 2️⃣ Profitability Analysis
 - Loss-Making Sub-Categories
@@ -38,6 +43,8 @@ The dashboard is designed for business users and decision-makers, allowing quick
 - Total Profit
 - Profit by Sub-Category
 - Discount vs Profit Analysis
+
+---
 
 ## 3️⃣ Customer Analysis
 - Total Customers
@@ -47,6 +54,8 @@ The dashboard is designed for business users and decision-makers, allowing quick
 - Top 10 Customers by Sales
 - Customer Sales vs Profit
 
+---
+
 ## 4️⃣ Product Analysis
 - Total Products
 - Total Quantity
@@ -55,11 +64,15 @@ The dashboard is designed for business users and decision-makers, allowing quick
 - Top 10 Products by Sales
 - Product Sales vs Profit
 
+---
+
 ## 5️⃣ Sales Trends
 - Sales & Profit Trend
 - Sales by Region
 - Sales KPIs
 - Interactive Filters
+
+---
 
 # 📈 KPIs
 
@@ -75,6 +88,7 @@ The dashboard is designed for business users and decision-makers, allowing quick
 - Sales per Product
 - Top Customer Sales
 
+---
 
 # 🛠 Tools & Technologies
 
@@ -83,6 +97,8 @@ The dashboard is designed for business users and decision-makers, allowing quick
 - DAX
 - Data Modeling
 - Data Visualization
+
+---
 
 # 🎨 Features
 
@@ -95,9 +111,51 @@ The dashboard is designed for business users and decision-makers, allowing quick
 - Business KPI Dashboard
 - Responsive Report Pages
 
+---
+
 # 📷 Dashboard Preview
 
-(Add screenshots here)
+# 📷 Dashboard Preview
+
+---
+
+## 🏠 Executive Overview
+
+<p align="center">
+<img src="images/Executive Overview.png" width="1000">
+</p>
+
+---
+
+## 💰 Profitability Analysis
+
+<p align="center">
+<img src="images/Profitability Analysis.png" width="1000">
+</p>
+
+---
+
+## 👥 Customer Analysis
+
+<p align="center">
+<img src="images/Customer Analysis.png" width="1000">
+</p>
+
+---
+
+## 📦 Product Analysis
+
+<p align="center">
+<img src="images/Product Analysis.png" width="1000">
+</p>
+
+---
+
+## 📈 Sales Trends
+
+<p align="center">
+<img src="images/Sales Trends.png" width="1000">
+</p>
 
 - Executive Overview
 - Profitability Analysis
@@ -105,11 +163,15 @@ The dashboard is designed for business users and decision-makers, allowing quick
 - Product Analysis
 - Sales Trends
 
+---
+
 # 📁 Dataset
 
 Dataset used:
 
 **Sample - Superstore**
+
+---
 
 # 🚀 Future Improvements
 
@@ -119,8 +181,11 @@ Dataset used:
 - Forecasting Analysis
 - Time Intelligence Calendar Table
 
+---
+
 ## 👤 Author
 
 **Stylianos Taliadouros**
 
 Power BI | Data Analytics | Business Intelligence
+
