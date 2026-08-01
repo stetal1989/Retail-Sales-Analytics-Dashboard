@@ -115,8 +115,6 @@ The dashboard is designed for business users and decision-makers, allowing quick
 
 # 📷 Dashboard Preview
 
-# 📷 Dashboard Preview
-
 ---
 
 ## 🏠 Executive Overview
