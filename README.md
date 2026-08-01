@@ -1,126 +1,73 @@
 # 📊 Retail Sales Analytics Dashboard
 
-An interactive **Power BI Dashboard** built using the **Sample Superstore** dataset to analyze sales performance, profitability, customers, products, and business trends.
+Interactive **Power BI** dashboard built using the **Sample Superstore** dataset to analyze sales performance, profitability, customer behavior, product performance, and business trends.
 
 ---
 
-## 📌 Project Overview
+## 🚀 Project Overview
 
-This project was developed to provide business insights through interactive dashboards and KPIs. It enables users to explore sales performance across different dimensions, identify profitable products and customers, and monitor business trends over time.
+This project demonstrates how Power BI can transform raw retail data into actionable business insights.
 
-The dashboard is designed for business users and decision-makers, allowing quick access to key performance metrics through dynamic filters and visualizations.
+The report was designed for business users and decision-makers, providing an interactive environment to monitor KPIs, identify profitable opportunities, and explore performance across different dimensions.
 
 ---
 
 ## 🎯 Business Objectives
 
 - Monitor overall sales performance
-- Analyze profitability across categories and regions
+- Analyze profitability across regions and categories
 - Identify top-performing customers and products
 - Track sales and profit trends over time
-- Provide interactive filtering for deeper business analysis
+- Enable interactive business analysis using filters
 
 ---
 
-# 📊 Dashboard Pages
+# 🛠️ Tools & Technologies
 
-## 1️⃣ Executive Overview
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Quantity
-- Average Order Value
-- Profit Margin
-- Monthly Sales Trend
-- Sales by Category
-- Profit by Region
+| Tool | Purpose |
+|------|---------|
+| Microsoft Power BI | Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | KPI & Measure Creation |
+| Data Modeling | Relationships & Performance |
+| Data Visualization | Interactive Business Reporting |
 
 ---
 
-## 2️⃣ Profitability Analysis
-- Loss-Making Sub-Categories
-- Profit Margin
-- Total Profit
-- Profit by Sub-Category
-- Discount vs Profit Analysis
+# 📈 Key Performance Indicators (KPIs)
+
+- 💰 Total Sales
+- 📈 Total Profit
+- 📦 Total Orders
+- 🛒 Total Quantity
+- 💳 Average Order Value
+- 📊 Profit Margin
+- 👥 Total Customers
+- 📦 Total Products
+- 🏆 Top Customer Sales
+- 📈 Sales per Customer
+- 📈 Sales per Product
 
 ---
 
-## 3️⃣ Customer Analysis
-- Total Customers
-- Sales per Customer
-- Top Customer Sales
-- Sales by Customer Segment
-- Top 10 Customers by Sales
-- Customer Sales vs Profit
+# 📄 Dashboard Pages
 
----
-
-## 4️⃣ Product Analysis
-- Total Products
-- Total Quantity
-- Sales per Product
-- Sales by Category
-- Top 10 Products by Sales
-- Product Sales vs Profit
-
----
-
-## 5️⃣ Sales Trends
-- Sales & Profit Trend
-- Sales by Region
-- Sales KPIs
-- Interactive Filters
-
----
-
-# 📈 KPIs
-
-- Total Sales
-- Total Profit
-- Profit Margin
-- Average Order Value
-- Total Orders
-- Total Quantity
-- Total Customers
-- Total Products
-- Sales per Customer
-- Sales per Product
-- Top Customer Sales
-
----
-
-# 🛠 Tools & Technologies
-
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Data Visualization
-
----
-
-# 🎨 Features
-
-- Interactive Filters
-- Dynamic KPI Cards
-- Cross Filtering
-- Top N Analysis
-- Scatter Plots
-- Trend Analysis
-- Business KPI Dashboard
-- Responsive Report Pages
+| Page | Description |
+|------|-------------|
+| Executive Overview | Overall business performance and KPIs |
+| Profitability Analysis | Profit, discounts and loss analysis |
+| Customer Analysis | Customer segmentation and top customers |
+| Product Analysis | Product performance and category analysis |
+| Sales Trends | Sales and profit performance over time |
 
 ---
 
 # 📷 Dashboard Preview
 
----
-
 ## 🏠 Executive Overview
 
 <p align="center">
-<img src="images/Executive Overview.png" width="1000">
+<img src="images/Executive Overview.png" width="100%">
 </p>
 
 ---
@@ -128,7 +75,7 @@ The dashboard is designed for business users and decision-makers, allowing quick
 ## 💰 Profitability Analysis
 
 <p align="center">
-<img src="images/Profitability Analysis.png" width="1000">
+<img src="images/Profitability Analysis.png" width="100%">
 </p>
 
 ---
@@ -136,7 +83,7 @@ The dashboard is designed for business users and decision-makers, allowing quick
 ## 👥 Customer Analysis
 
 <p align="center">
-<img src="images/Customer Analysis.png" width="1000">
+<img src="images/Customer Analysis.png" width="100%">
 </p>
 
 ---
@@ -144,7 +91,7 @@ The dashboard is designed for business users and decision-makers, allowing quick
 ## 📦 Product Analysis
 
 <p align="center">
-<img src="images/Product Analysis.png" width="1000">
+<img src="images/Product Analysis.png" width="100%">
 </p>
 
 ---
@@ -152,32 +99,50 @@ The dashboard is designed for business users and decision-makers, allowing quick
 ## 📈 Sales Trends
 
 <p align="center">
-<img src="images/Sales Trends.png" width="1000">
+<img src="images/Sales Trends.png" width="100%">
 </p>
 
-- Executive Overview
-- Profitability Analysis
-- Customer Analysis
-- Product Analysis
-- Sales Trends
+---
+
+# 💡 Key Business Insights
+
+- Technology generated the highest sales among all product categories.
+- The West region delivered the strongest overall sales performance.
+- A small number of customers contributed significantly to total revenue.
+- Some high-sales products generated low or negative profit.
+- Profitability varied considerably across regions and categories.
 
 ---
 
 # 📁 Dataset
 
-Dataset used:
+**Dataset:** Sample Superstore
 
-**Sample - Superstore**
+This dataset is commonly used for Business Intelligence, Data Visualization and Power BI portfolio projects.
+
+---
+
+# ⭐ Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- KPI Design
+- Dashboard Design
+- Interactive Reporting
+- Business Analysis
+- Data Storytelling
 
 ---
 
 # 🚀 Future Improvements
 
-- Drill-through Pages
-- Custom Tooltip Pages
-- Bookmarks & Navigation
-- Forecasting Analysis
-- Time Intelligence Calendar Table
+- Drill-through pages
+- Custom tooltips
+- Forecasting
+- Time Intelligence
+- Row-Level Security (RLS)
+- Mobile Layout
 
 ---
 
@@ -185,5 +150,4 @@ Dataset used:
 
 **Stylianos Taliadouros**
 
-Power BI | Data Analytics | Business Intelligence
-
+Junior Data Analyst | Power BI | SQL | Excel
